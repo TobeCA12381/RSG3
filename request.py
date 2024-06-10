@@ -1,4 +1,4 @@
 import requests
 
-r = requests.get('http://http://localhost:8093/')
+r = requests.get('http://localhost:8093/')
 print (r.json())
